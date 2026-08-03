@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+*.SC2Replay
+*.log
+
+.DS_Store
