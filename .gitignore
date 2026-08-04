@@ -4,10 +4,12 @@ __pycache__/
 *.pyc
 maps/*
 !maps/.gitkeep
-bin/*
-!bin/.gitkeep
+StarCraftII/*
+!StarCraftII/.gitkeep
 
 *.SC2Replay
 *.log
 
 .DS_Store
+
+*.png
