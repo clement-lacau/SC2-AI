@@ -4,6 +4,8 @@ __pycache__/
 *.pyc
 maps/*
 !maps/.gitkeep
+bin/*
+!bin/.gitkeep
 
 *.SC2Replay
 *.log
