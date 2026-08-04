@@ -2,6 +2,8 @@ venv/
 .venv/
 __pycache__/
 *.pyc
+maps/*
+!maps/.gitkeep
 
 *.SC2Replay
 *.log
